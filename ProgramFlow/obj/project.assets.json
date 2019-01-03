@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/erica/Projects/ProgramFlow/ProgramFlow/ProgramFlow.csproj",
+      "projectUniqueName": "/Users/erica/Projects/Program-Flow/ProgramFlow/ProgramFlow.csproj",
       "projectName": "ProgramFlow",
-      "projectPath": "/Users/erica/Projects/ProgramFlow/ProgramFlow/ProgramFlow.csproj",
+      "projectPath": "/Users/erica/Projects/Program-Flow/ProgramFlow/ProgramFlow.csproj",
       "packagesPath": "/Users/erica/.nuget/packages/",
-      "outputPath": "/Users/erica/Projects/ProgramFlow/ProgramFlow/obj",
+      "outputPath": "/Users/erica/Projects/Program-Flow/ProgramFlow/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
